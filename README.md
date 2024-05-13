@@ -1,4 +1,5 @@
 # Perfex CRM Arabic Translation
+## Made in Sudan with love ❤️
 
 ## Author
 
@@ -43,5 +44,3 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 ## Support
 
 For any questions, issues, or support regarding this Arabic translation, you can contact the author directly via email or phone (details provided above).
-
-Made in Sudan with love ❤️
