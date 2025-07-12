@@ -7,7 +7,7 @@ Abdalrahman Molood
 
 Email: amolood@icloud.com  
 
-Phone: +971555330956
+Phone: +249912740956
 
 Website: [amolood.com](https://amolood.com)
 
