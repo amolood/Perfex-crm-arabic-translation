@@ -117,13 +117,14 @@ $lang['num_word_trillion'] = 'ترليون';
 $lang['num_word_zillion']  = 'زليون';
 $lang['num_word_cents']    = 'سنت';
 $lang['number_word_and']   = 'و';
+$lang['num_word_SDG']   = 'جنيه سوداني';
+
 
 // Show in invoices and estimates
 $lang['num_word'] = 'كتابةً';
 
 $currencies = [
     'USD' => 'دولار',
-    'SAR' => 'ريال',
     'SDG' => 'جنيه سوداني',
     'EUR' => 'يورو'
 ];
