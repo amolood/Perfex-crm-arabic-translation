@@ -4,7 +4,7 @@
 #
 # General
 $lang['id'] = '#';
-$lang['الاسم'] = 'الأسم';
+$lang['name'] = 'الأسم';
 $lang['options'] = 'الخيارات';
 $lang['submit'] = 'حفظ';
 $lang['added_successfully'] = 'تمت إضافة %s بنجاح';
@@ -891,7 +891,7 @@ $lang['payment_modes_dt_active'] = 'نشط';
 $lang['contract_not_found'] = 'العقد غير موجود. ربما تم حذفه ، تحقق من سجل النشاط';
 
 # Settings
-$lang['setting_bar_heading'] = 'إعداد';
+$lang['setting_bar_heading'] = 'الإعدادات';
 $lang['settings_group_online_payment_modes'] = 'بوابات الدفع';
 $lang['settings_paymentmethod_mode_label'] = 'مُلصَق';
 $lang['settings_paymentmethod_active'] = 'نشط';
@@ -3863,6 +3863,8 @@ $lang['add_timesheet'] = 'إضافة جدول زمني';
 $lang['submit_button_bg_color'] = 'لون خلفية زر الإرسال';
 $lang['submit_button_text_color'] = 'لون نص زر الإرسال';
 $lang['automatically_assign_ticket_to_first_staff_responding'] = 'تعيين التذكرة تلقائيًا لأول موظف يرد؟';
+$lang['api'] = 'API';
+$lang['Api'] = 'API';
 
 # Version 2.9.1
 $lang['contract_signed_not_all_fields_editable'] = 'تم توقيع هذا العقد ، وبالتالي لا يمكن تحرير جميع الحقول حتى تتم إزالة التوقيع.';
@@ -3870,4 +3872,5 @@ $lang['form_submit_success_action'] = 'ما الذي يجب أن يحدث بعد
 $lang['form_submit_success_display_thank_you'] = 'عرض رسالة شكر';
 $lang['form_submit_success_redirect_to_website'] = 'إعادة التوجيه إلى موقع آخر';
 $lang['form_submit_website_url'] = 'رابط الموقع';
-
+$lang['Theme Style'] = 'التصميم';
+$lang['Menu Setup'] = 'إعداد القوائم';
